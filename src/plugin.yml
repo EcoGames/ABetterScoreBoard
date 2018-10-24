@@ -1,0 +1,7 @@
+name: ABetterScoreboard
+version: 1.0
+main: me.reprevise.betterscoreboard.ABetterScoreBoardMain
+description: A highly customizable scoreboard plugin.
+commands:
+  bsb:
+    description: Main plugin command

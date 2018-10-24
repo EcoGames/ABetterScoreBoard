@@ -1,0 +1,19 @@
+# ------------------------------ #
+# A Better Scoreboard Config File #
+# (title:) This is the title of the scoreboard, the top line (color codes allowed)
+# (lines:) Comments:
+#           Below is all the lines that will be in the scoreboard (color codes allowed)
+#           Leave a blank ' ' for a blank line
+#           NO MORE THAN 16 ROWS!!!
+#           MAKE SURE TO SURROUND EACH LINE IN QUOTES!!!
+#           "www.example.com" will be at the bottom of the scoreboard! The lines and the scoreboard are opposites
+# ------------------------------ #
+
+title: Example Server
+lines:
+  - "www.example.com"
+  - "asdfa"
+  - " "
+  - "asdfb"
+  - "asdfc"
+  - "IP: mc.example.net"
